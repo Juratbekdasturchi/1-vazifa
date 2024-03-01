@@ -5,7 +5,7 @@ function App() {
   return (
    <div>
     <header>
-      <h1> Assalomu alaykum 01.03.2024 </h1>
+      <h1> Assalomu alaykum 01.03.2024 chirchiq </h1>
       <div className = "container">
         <a href="#"> Start Bootstrap </a>
         <ul>
